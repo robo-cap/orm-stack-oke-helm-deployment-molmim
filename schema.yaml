@@ -1,6 +1,6 @@
 title: OKE AI Stack deployment
-description: Terraform Stack for OKE deployment with Nginx, Jupyter Notebook, Qdrant and NIM.
-informationalText: Terraform Stack for OKE deployment with Nginx, Jupyter Notebook, Qdrant and NIM.
+description: Terraform Stack for OKE deployment with Nginx, Jupyter Notebook, and MolMIM.
+informationalText: Terraform Stack for OKE deployment with Nginx, Jupyter Notebook, and MolMIM.
 schemaVersion: 1.1.0
 version: "20190304"
 
