@@ -9,7 +9,6 @@ This stack deploys an OKE cluster with two nodepools:
 And several supporting applications using helm:
 - nginx
 - cert-manager
-- qdrant vector DB
 - jupyterhub
 
 With the scope of demonstrating [nVidia NIM MolMIM](https://docs.nvidia.com/nim/bionemo/molmim/latest/index.html) self-hosted model capabilities.
